@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/cpage/coe768-project1-cache-controller/Hit_Or_Miss_Check_isim_beh.exe" -prj "/home/cpage/coe768-project1-cache-controller/Hit_Or_Miss_Check_beh.prj" "work.Hit_Or_Miss_Check" 

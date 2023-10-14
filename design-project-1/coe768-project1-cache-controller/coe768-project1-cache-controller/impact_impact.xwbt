@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/cpage/coe768-project1-cache-controller/impact.xsl
+OUTFILE=/home/cpage/coe768-project1-cache-controller/impact.xsl
+FAMILY=None
+PART=None
+WORKINGDIR=/home/cpage/coe768-project1-cache-controller
+LICENSE=iMPACT
+USER_INFO=iMPACT

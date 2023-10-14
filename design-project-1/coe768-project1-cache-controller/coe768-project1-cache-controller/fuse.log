@@ -1,0 +1,21 @@
+Running: /opt/Xilinx/13.4/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/cpage/coe768-project1-cache-controller/Hit_Or_Miss_Check_isim_beh.exe -prj /home/cpage/coe768-project1-cache-controller/Hit_Or_Miss_Check_beh.prj work.Hit_Or_Miss_Check 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 6
+Turning on mult-threading, number of parallel sub-compilation jobs: 12 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/cpage/coe768-project1-cache-controller/Hit_Or_Miss_Check.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 85676 KB
+Fuse CPU Usage: 350 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity hit_or_miss_check
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+FATAL_ERROR:Simulator:Fuse.cpp:209:1.129 - Failed to compile one of the generated C files.
+
+   Please recompile with -mt off -v 1 switch to identify which design unit failed.  Process will terminate. For technical support on this issue, please open a WebCase with this project attached at http://www.xilinx.com/support.

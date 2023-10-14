@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="coe768-project1-cache-controller.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="CPU_gen_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Hit_Or_Miss_Check.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Hit_Or_Miss_Check_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="SDRAM_Controller_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1697316035" xil_pn:in_ck="-7246791413961464603" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1697316035">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CACHE_Controller.vhd"/>
+      <outfile xil_pn:name="CPU_gen.vhd"/>
+      <outfile xil_pn:name="Hit_Or_Miss_Check.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1697316037" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2092339128597222048" xil_pn:start_ts="1697316037">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1697316037" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2517758321446177950" xil_pn:start_ts="1697316037">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1697316037" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-1931876451650715799" xil_pn:start_ts="1697316037">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1697316037" xil_pn:in_ck="-7246791413961464603" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1697316037">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CACHE_Controller.vhd"/>
+      <outfile xil_pn:name="CPU_gen.vhd"/>
+      <outfile xil_pn:name="Hit_Or_Miss_Check.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1697316037" xil_pn:in_ck="-7246791413961464603" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="53167162446620693" xil_pn:start_ts="1697316037">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+  </transforms>
+
+</generated_project>

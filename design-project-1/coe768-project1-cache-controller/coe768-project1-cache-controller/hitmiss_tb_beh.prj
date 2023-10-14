@@ -1,0 +1,2 @@
+vhdl work "Hit_Or_Miss_Check.vhd"
+vhdl work "hitmiss_tb.vhd"

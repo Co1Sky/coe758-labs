@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/cpage/coe768-project1-cache-controller/SDRAM_Controller.ncd
+OUTFILE=/home/cpage/coe768-project1-cache-controller/SDRAM_Controller.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/cpage/coe768-project1-cache-controller
+LICENSE=WebPack
+USER_INFO=212829062_0_0_554
